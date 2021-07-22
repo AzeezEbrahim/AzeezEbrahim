@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AzeezEbrahim
+- 👋 Hi, I’m Abdulaziz Hamid Ebrahim
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : azeez.h.ebrahim@gmail.com
 
 <!---
