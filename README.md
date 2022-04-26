@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdulaziz Hamid Ebrahim, born 1999  
 - ✨ I live in Saudi Arabia and I'm an Electrical Engineer at King Abdulaziz University
-- 👀 I’m interested in Artificial Intelligence and myHDL using python  
-- 🌱 I’m currently deeping in python AI projects
+- 👀 I’m interested in Web developments
+- 🌱 I’m currently deeping in Web3
 - 📫 How to reach me : azeez.h.ebrahim@gmail.com
 
 <!---
