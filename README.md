@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Ebrahim</h1>
 <h3 align="center">I am passionate about Web developing and deep learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azeezebrahim" alt="azeezebrahim" /></a> </p>
+
 
 - 🔭 I’m currently working on [freeCodeCamp Certificates](https://www.freecodecamp.org/learn/)
 
 - 🌱 I’m currently learning **React, and machine learning*
 
-- 💬 Ask me about **HTML, CSS, JS, Java, python**
+- 💬 Ask me about **HTML, CSS, Java, python**
 
 - 📫 How to reach me **azeez.h.ebrahim@gmail.com**
 
