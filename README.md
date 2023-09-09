@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Ebrahim</h1>
-<h3 align="center">I am passionate about Web developing and deep learning</h3>
+<h3 align="center">I am passionate ML/DL Engineer</h3>
 
-
-
-- 🔭 I’m currently working on [freeCodeCamp Certificates](https://www.freecodecamp.org/learn/)
-
-- 🌱 I’m currently learning *React, and machine learning*
-
-- 💬 Ask me about **HTML, CSS, Java, python**
 
 - 📫 How to reach me **azeez.h.ebrahim@gmail.com**
 
