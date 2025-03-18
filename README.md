@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Ebrahim</h1>
-<h3 align="center">I am passionate ML/DL Engineer</h3>
+<h3 align="center">passionate System Engineer</h3>
 
 
 - 📫 How to reach me **azeez.h.ebrahim@gmail.com**
