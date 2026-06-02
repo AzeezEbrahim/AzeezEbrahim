@@ -2,7 +2,7 @@
 <h3 align="center">R&D Software Engineer</h3>
 
 
-- 📫 How to reach me **abdulaziz.hameed50@gmail.com**
+- 📫 How to reach me **azeez.h.ebrahim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
